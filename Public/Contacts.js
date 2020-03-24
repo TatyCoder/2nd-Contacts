@@ -25,4 +25,6 @@ var contacts = [{
         },
         phone: "Phone3"
     }
-]
+];
+
+module.exports = contacts;
